@@ -1,0 +1,13 @@
+name: 'tasks'
+version: 0.1.0
+description: Task and TaskQueue for concurrent executing of tasks
+author: Mixbook
+homepage: https://github.com/Mixbook/tasks.dart
+environment:
+  sdk: '>=1.0.0 <2.0.0'
+dependencies:
+  frappe: any
+  collection: any
+dev_dependencies:
+  test: any
+  http: any
